@@ -39,7 +39,7 @@ export default function Experience() {
     {
       title: "UX/UI and Usability Tester",
       company: "Ubiq",
-      period: "Feb. 2025 – Present",
+      period: "Feb. 2025 – Apr. 2025",
       location: "Remote",
       description: [
         "Conduct usability testing, identifying UI pain points, feature accessibility issues, and design flow improvements to enhance user experience.",
