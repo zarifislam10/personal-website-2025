@@ -29,9 +29,9 @@ export default function Experience() {
       period: "Sep. 2024 – Present",
       location: "Queens, NY",
       description: [
-        "Designed and led weekly afterschool coding lessons for 2nd to 5th graders, introducing Python and Scratch to build foundational programming skills.",
-        "Translated complex web concepts (HTML, HTTPS, WWW) into engaging lessons that helped students gain confidence in technology and understand how the internet works.",
-        "Assessed students weekly through mini-quizzes and coding challenges, resulting in a 40% average improvement in understanding and performance over 6 weeks.",
+        "Created and taught grade-specific lesson plans: Python fundamentals for 4th–5th graders and Scratch for 2nd graders.",
+        "Introduced web concepts like HTML and HTTPS through hands-on activities, helping students relate coding to real-world technology.",
+        "Assessed 4th–5th grade students with weekly quizzes and coding challenges, resulting in an average score increase from 62% to 84% over six weeks.",
       ],
       icon: <School className="h-5 w-5" />,
       tags: ["Python", "Scratch", "Teaching", "Curriculum Design"],
