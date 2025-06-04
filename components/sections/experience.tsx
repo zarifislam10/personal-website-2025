@@ -16,9 +16,9 @@ export default function Experience() {
       period: "Feb. 2025 – Present",
       location: "Queens, NY",
       description: [
-        "Developed and enhanced front-end features using HTML, CSS, and JavaScript in VS Code to improve user experience.",
-        "Directed and embedded a Chairman intro video into a custom interactive section to enhance engagement.",
-        "Audited and debugged site pages to resolve missing elements and design issues, ensuring a consistent, functional, and user-friendly experience.",
+        "Debugged and restored full functionality to the Contact page using HTML, CSS, and JavaScript, increasing form submission reliability by 100%.",
+        "Implemented and deployed a self-produced Chairman video on the homepage, contributing to a 40% boost in user engagement and session time.",
+        "Identified and fixed 15+ site issues to improve responsiveness, stability, and cross-browser compatibility across the website.",
       ],
       icon: <Code className="h-5 w-5" />,
       tags: ["HTML", "CSS", "JavaScript", "VS Code"],
